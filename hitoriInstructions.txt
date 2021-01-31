@@ -1,0 +1,4 @@
+Welcome to Hitori!
+1. No number appears in a row or column more than once.
+2. Shaded (black) squares do not touch each other, vertically or horizontally.
+3. When completed, all un-shaded (white) squares create a single, continuous area.
